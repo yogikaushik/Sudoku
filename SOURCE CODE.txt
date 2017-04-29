@@ -12,7 +12,8 @@
    *                                                                                               *
    * FILLED CELL (or PROBLEM CELL):  a cell which is already filled with a number and can't        *        
    *                                 be edited.                                                    *
-   * POSITION : cursor position w.r.t screen                                                       *
+   * POSITION : cursor position w.r.t screen           
+   * AUTHOR : yogesh kaushik
    *************************************************************************************************
 */
                                     

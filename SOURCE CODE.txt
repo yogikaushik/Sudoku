@@ -21,7 +21,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
-#include<windows.h> //for gotoxy() and system("cls")
+#include<windows.h> 
 #include<ctype.h>   //for isdigit()
 #include<malloc.h>
 
